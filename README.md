@@ -21,7 +21,7 @@ UniChar is a robust Python library designed to mitigate common vulnerabilities r
 - Python 3.7.x or later
 
 ### 2. Clone the repository
-`git clone https://github.com/ishre/UniChar`
+`https://github.com/Deb07-Ops/UniChar.git`
 
 This will create a local copy of the repository.
 ### 3. Running the script
